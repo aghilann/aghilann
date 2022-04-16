@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Express and Microsoft Azure Fundementals**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aghilann/](https://github.com/aghilann/)
-
+- 👨‍💻 All of my projects are available on my **[GitHub](https://github.com/aghilann/)**
 - 💬 Ask me about **React and TS**
 
 - 📫 React me at my **[LinkedIn](https://www.linkedin.com/in/aghilan-nathan-3b65bb211/)**
