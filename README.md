@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **React and TS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aghilan-nathan-3b65bb211/**
+- 📫 React me at my **[LinkedIn]**(https://www.linkedin.com/in/aghilan-nathan-3b65bb211/)
 
-- 📄 View my (resume)[https://github.com/aghilann/v4/blob/main/static/Aghilan's%20Resume.pdf]
+- 📄 View my [resume](https://github.com/aghilann/v4/blob/main/static/Aghilan's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
