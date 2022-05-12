@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aghilan</h1>
-<h3 align="center">A passionate Frontend Dev from Calgary studying Computer Science and Business at UBC</h3>
+<h3 align="center">A Aspiring Frontend Dev from Calgary studying Computer Science and Business at UBC</h3>
 
 - 🔭 I’m currently working on [Finance-Tracker](https://github.com/aghilann/Finance-Tracker)
 
