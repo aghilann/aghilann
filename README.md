@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aghilan</h1>
 <h3 align="center">A Aspiring Frontend Dev from Calgary studying Computer Science and Business at UBC</h3>
 
-- 🔭 I’m currently working on [Finance-Tracker](https://github.com/aghilann/Finance-Tracker)
+- 🔭 I’m currently working on [Skyfall](https://github.com/aghilann/Skyfall), a site for users to record legacy videos to be sent to their loved ones once they pass. 
 
 - 🌱 I’m currently learning **Express and Microsoft Azure Fundementals**
 
