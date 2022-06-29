@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Skyfall](https://github.com/aghilann/Skyfall), a site for users to record legacy videos to be sent to their loved ones once they pass. 
 
-- 🌱 I’m currently revisiting **JavaScript** to learn about how it works under the hood and playing with **Serverless Functions**
+- 🌱 I’m currently revisiting **JavaScript** to learn about how it works under the hood and exploring microservice architecture with **Serverless Functions**
 
 - 👨‍💻 All of my projects are available on my **[GitHub](https://github.com/aghilann/)**
 - 💬 Ask me about **React and TS**
