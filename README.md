@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aghilan</h1>
 <h3 align="center">An Aspiring Web Dev studying Computer Science and Business at UBC</h3>
 
-- 🔭 I’m currently working on [Skyfall](https://github.com/aghilann/Skyfall), a site for users to record legacy videos to be sent to their loved ones once they pass. 
+- 🔭 I’m currently working on a Workout Tracker API, a site for users to record what they exercised every day and track their progression. 
 
-- 🌱 I’m currently revisiting **JavaScript** to learn about how it works under the hood and exploring microservice architecture with **Serverless Functions**
+- 🌱 I’m currently learning  **Amazon Web Services** and getting my AWS Certifications and exploring microservice architecture with **AWS Lambda**
 
 - 👨‍💻 All of my projects are available on my **[GitHub](https://github.com/aghilann/)**
-- 💬 Ask me about **React and TS**
+- 💬 Ask me about **Cloud, React and TS**
 
 - 📫 React me at my **[LinkedIn](https://www.linkedin.com/in/aghilan-nathan-3b65bb211/)**
 
@@ -35,6 +35,7 @@
   <img style="-webkit-filter: invert(1);filter: invert(1);" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="react" width="40" height="40"/>
   <h3 align="left">Tools</h3>
 <p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="react" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
