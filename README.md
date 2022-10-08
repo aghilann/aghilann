@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Workout Tracker API, a site for users to record what they exercised every day and track their progression. 
 
-- 🌱 I’m currently learning  **Amazon Web Services** and getting my AWS Certifications and exploring microservice architecture with **AWS Lambda**
+- 🌱 I’m currently learning  **Amazon Web Services** and getting my AWS Developer Certificate while on the hunt for my first internship.
 
 - 👨‍💻 All of my projects are available on my **[GitHub](https://github.com/aghilann/)**
 - 💬 Ask me about **Cloud, React and TS**
