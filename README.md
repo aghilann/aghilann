@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aghilan</h1>
 <h3 align="center">An Aspiring Web Dev studying Computer Science and Business at UBC</h3>
 
-- 🔭 I’m currently working on a Workout Tracker API, a site for users to record what they exercised every day and track their progression. 
+- 🔭 I’m currently at Mainstream Labs as a developer, a token-gated forum for DAO participants to discuss, vote, and be rewarded, all in one place.. 
 
 - 🌱 I’m currently learning  **Amazon Web Services** and getting my AWS Developer Certificate while on the hunt for my first internship.
 
