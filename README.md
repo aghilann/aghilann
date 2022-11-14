@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently at Mainstream Labs as a developer, a token-gated forum for DAO participants to discuss, vote, and be rewarded, all in one place.. 
 
-- 🌱 I’m currently learning  **Amazon Web Services** and getting my AWS Developer Certificate while on the hunt for my first internship.
+- 🌱 I’m currently learning  **Amazon Web Services** and getting my AWS Developer Certificate.
 
 - 👨‍💻 All of my projects are available on my **[GitHub](https://github.com/aghilann/)**
 - 💬 Ask me about **Cloud, React and TS**
