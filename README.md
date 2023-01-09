@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aghilan</h1>
-<h3 align="center">An Aspiring Web Dev studying Computer Science and Business at UBC</h3>
+<h3 align="center">A Software Engineer studying Computer Science and Business at UBC</h3>
 
-- 🔭 I’m currently at Mainstream Labs as a developer, a token-gated forum for DAO participants to discuss, vote, and be rewarded, all in one place.. 
+- 🔭 I’m currently at Intuit as SWE Intern. 
 
 - 🌱 I’m currently trying to finish my exams.
 
