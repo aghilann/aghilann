@@ -10,7 +10,7 @@
 
 - 📫 React me at my **[LinkedIn](https://www.linkedin.com/in/aghilan-nathan-3b65bb211/)**
 
-- 📄 View my [resume]([https://aghilan.netlify.app/resume.html))
+- 📄 View my [resume](https://aghilan.netlify.app/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
