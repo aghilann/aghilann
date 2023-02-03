@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently at Intuit as SWE Intern. 
 
-- 🌱 I’m currently trying to finish my exams.
+- 🌱 I’m currently learning about AWS and Distributed Systems.
 
 - 👨‍💻 All of my projects are available on my **[GitHub](https://github.com/aghilann/)**
 - 💬 Ask me about **Cloud, React and TS**
