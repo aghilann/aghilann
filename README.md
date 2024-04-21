@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aghilan</h1>
 <h3 align="center">A Software Engineer studying Computer Science and Business at UBC</h3>
 
-- 🔭 I’m currently at Intuit as SWE Intern. 
+- 🔭 I’m currently about to start a role as a Software Engineer working on ML Infra for Model Training. 
 
-- 🌱 I’m currently learning about AWS and Distributed Systems.
+- 🌱 I’m currently learning about Kubernetes, GPU Programming, ML & Distributed Systems.
 
 - 👨‍💻 All of my projects are available on my **[GitHub](https://github.com/aghilann/)**
-- 💬 Ask me about **Cloud, React and TS**
+- 💬 Ask me about **basically any language or tech, I've used them all at some point**
 
 - 📫 React me at my **[LinkedIn](https://www.linkedin.com/in/aghilan-nathan-3b65bb211/)**
-
-- 📄 View my [resume](https://aghilan.netlify.app/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
