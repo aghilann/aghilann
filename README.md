@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aghilan</h1>
-<h3 align="center">A Software Engineer studying Computer Science and Business at UBC</h3>
+<h3 align="center">I'm an ML Infra Engineer</h3>
 
-- 🔭 I’m about to start as a Software Engineer at **Baseten**, working on **ML Infrastructure for Inference**.
+- 🔭 I work on the Core Product team **Baseten Labs**, working on **ML Infrastructure**.
 - 🚀 My interests lie in increasing the number of cores and chips used for training or inference while achieving an **ideally** proportional increase in throughput.
 - 🧠 I’ve worked on **ML training infrastructure** at **LinkedIn**, and on the **brokerage platform** at **Wealthsimple** and **Robinhood**, focusing on real-time trading systems and client-facing experiences.
 - 💼 At **Intuit**, I built backend features for **QuickBooks Online**, leveraging AWS and launching internal AI experiments.
