@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aghilan</h1>
 <h3 align="center">ML Infra Engineer @ Baseten</h3>
 
-- 🛠️ Building scalable ML infrastructure on the Core Product team.
+- 🛠️ Building ML Systems on the Training team.
 - 🚀 Passionate about pushing chip/core counts to boost throughput.
 - 💼 Past roles at LinkedIn (ML infra), Robinhood & Wealthsimple (trading systems), Intuit (backend @ QuickBooks).
 - 🌱 Exploring Kubernetes, GPU Programming, Distributed Systems, and ML Systems.
